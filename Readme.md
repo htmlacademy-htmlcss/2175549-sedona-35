@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
-* Студент: [ Даниил Лукач](https://up.htmlacademy.ru/htmlcss/35/user/2175549).
-* Наставник: `Неизвестно`.
+* Студент: [Даниил Лукач](https://up.htmlacademy.ru/htmlcss/35/user/2175549).
+* Наставник: [Татьяна Симоненко](https://htmlacademy.ru/profile/tatien).
 
 ---
 
